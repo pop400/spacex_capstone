@@ -1,0 +1,1 @@
+The repository contains my files, used to collect, clean, analyze, and model data, for my IBM Data Science Prefessional Certificate Capstone Course. The Capstone's aim is to employ all the fundamental skills that you have learned over the courses, in a single project, taken through the complete cycle of a Data Science project; from data collection to presenting your findings.
